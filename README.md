@@ -1,12 +1,12 @@
 # Hi, I'm Naren 👋
 
-I'm a Computer Science student at the **University of Washington** focused on
-**Machine Learning, Deep Learning, and Software Engineering**.
+I'm a Computer Science student at the University of Washington focused on
+Machine Learning, Deep Learning, and Software Engineering.
 
-I'm particularly interested in **computer vision, NLP, and ML systems**, and enjoy
+I'm particularly interested in computer vision, NLP, and ML systems, and enjoy
 building everything from models and experiments to data pipelines and production-ready software systems.
 
-Currently working on **LeanGCD** with the UW Math AI Lab.
+Currently working on LeanGCD with the UW Math AI Lab.
 
 ---
 
@@ -20,7 +20,7 @@ Currently working on **LeanGCD** with the UW Math AI Lab.
 
 ## 📚 Publications
 
-First author of **3 peer-reviewed publications** on machine learning and statistical
+First author of 3 peer-reviewed publications on machine learning
 approaches for Autism Spectrum Disorder detection.
 
 ---
