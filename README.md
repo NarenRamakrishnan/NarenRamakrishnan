@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Naren 👋
 
-<!--
-**NarenRamakrishnan/NarenRamakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the **University of Washington** focused on
+**Machine Learning, Deep Learning, and Software Engineering**.
 
-Here are some ideas to get you started:
+I'm particularly interested in **computer vision, NLP, and ML systems**, and enjoy
+building everything from models and experiments to data pipelines and production-ready software systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on **LeanGCD** with the UW Math AI Lab.
+
+---
+
+## 🛠️ Tech
+
+**ML/AI:** PyTorch · TensorFlow · scikit-learn · Hugging Face · vLLM  
+**Software:** Python · Java · JavaScript · SQL · Flask · Docker · Git · Linux  
+**Data:** Pandas · NumPy · Librosa · Rasterio · GDAL
+
+---
+
+## 📚 Publications
+
+First author of **3 peer-reviewed publications** on machine learning and statistical
+approaches for Autism Spectrum Disorder detection.
+
+---
+
+## 🌐 Connect
+
+[LinkedIn](https://linkedin.com/in/naren-ramakrishnan) ·
+[Email](mailto:narenpr@cs.washington.edu)
