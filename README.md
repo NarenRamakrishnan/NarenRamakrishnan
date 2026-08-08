@@ -3,18 +3,19 @@
 I'm a Computer Science student at the University of Washington focused on
 Machine Learning, Deep Learning, and Software Engineering.
 
-I'm particularly interested in computer vision, NLP, and ML systems, and enjoy
-building everything from models and experiments to data pipelines and production-ready software systems.
+I'm interested in computer vision, NLP, and ML systems, and enjoy
+building everything from models and experiments to data pipelines and production ready software systems.
 
 Currently working on LeanGCD with the UW Math AI Lab.
 
 ---
 
 ## 🛠️ Tech
+**ML/AI:** PyTorch · TensorFlow · scikit-learn · Hugging Face · NLP · Computer Vision · Agentic AI · vLLM
 
-**ML/AI:** PyTorch · TensorFlow · scikit-learn · Hugging Face · vLLM  
-**Software:** Python · Java · JavaScript · SQL · Flask · Docker · Git · Linux  
-**Data:** Pandas · NumPy · Librosa · Rasterio · GDAL
+**Software & Systems:** Flask · REST APIs · Docker · Linux · Git · pytest · cron · Model Context Protocol · System Architecture · Pandas
+
+**Languages:** Python · Java · JavaScript · C · SQL
 
 ---
 
